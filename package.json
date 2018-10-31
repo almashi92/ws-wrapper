@@ -1,5 +1,5 @@
 {
-  "name": "ws-wrapper",
+  "name": "ws-wrapper-sofair",
   "version": "0.0.1",
   "description": "ws-wrapper",
   "main": "dist/index.js",

@@ -1,0 +1,28 @@
+{
+  "name": "ws-wrapper",
+  "version": "0.0.1",
+  "description": "ws-wrapper",
+  "main": "dist/index.js",
+  "scripts": {
+       "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almashi92/ws-wrapper.git"
+  },
+  "author": "Roman Almashi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/almashi92/ws-wrapper/issues"
+  },
+  "homepage": "https://github.com/almashi92/ws-wrapper#readme",
+  "dependencies": {
+    "@types/events": "^1.2.0",
+    "@types/ws": "^6.0.1",
+    "events": "^3.0.0",
+    "ws": "^6.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.4"
+  }
+}
